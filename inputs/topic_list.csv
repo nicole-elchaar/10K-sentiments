@@ -1,0 +1,147 @@
+type,term
+esg_topic,esg
+esg_topic,sustainable
+esg_topic,sustained
+esg_topic,sustainability
+esg_topic,impact investing
+esg_topic,impact invest
+esg_topic,clean energy
+esg_topic,clean investing
+esg_topic,clean invest
+esg_topic,diversity
+esg_topic,equity
+esg_topic,inclusion
+esg_topic,microfinance
+esg_topic,ethics
+esg_topic,ethically
+esg_topic,cdfi
+esg_negative,limit
+esg_negative,limited
+esg_negative,underdevelop
+esg_negative,underdeveloped
+esg_negative,bureaucratic
+esg_negative,slow
+esg_negative,slowly
+esg_negative,insufficient
+esg_negative,behind
+esg_negative,poor
+esg_negative,faulty
+esg_negative,behind
+esg_negative,risk
+esg_negative,risky
+esg_negative,decline
+esg_negative,lower
+esg_positive,ethical
+esg_positive,ethics
+esg_positive,ethically
+esg_positive,innovate
+esg_positive,innovation
+esg_positive,transform
+esg_positive,transformation
+esg_positive,innovate
+esg_positive,innovative
+esg_positive,profit
+esg_positive,profitable
+esg_positive,efficient
+esg_positive,effective
+esg_positive,positive
+esg_positive,good
+ecom_topic,online
+ecom_topic,digital wallet
+ecom_topic,digital pay
+ecom_topic,digital payment
+ecom_topic,logistics
+ecom_topic,delivery
+ecom_topic,mobile commerce
+ecom_topic,social commerce
+ecom_topic,social media
+ecom_topic,drop ship
+ecom_topic,dropship
+ecom_topic,dropshipping
+ecom_negative,risk
+ecom_negative,risky
+ecom_negative,unsustainable
+ecom_negative,unsustained
+ecom_negative,monopoly
+ecom_negative,monopolistic
+ecom_negative,unethical
+ecom_negative,poor
+ecom_negative,faulty
+ecom_negative,negative
+ecom_positive,convenient
+ecom_positive,convenience
+ecom_positive,access
+ecom_positive,accessible
+ecom_positive,accessibility
+ecom_positive,available
+ecom_positive,availability
+ecom_positive,innovate
+ecom_positive,innovative
+ecom_positive,profit
+ecom_positive,profitable
+ecom_positive,efficient
+ecom_positive,effective
+ecom_positive,positive
+bio_topic,gene
+bio_topic,genes
+bio_topic,biopharm
+bio_topic,biopharmaceutical
+bio_topic,biopharmaceuticals
+bio_topic,pharmacy
+bio_topic,pharmacies
+bio_topic,medical
+bio_topic,medicine
+bio_topic,medicines
+bio_topic,medicinal
+bio_topic,vaccine
+bio_topic,vaccines
+bio_topic,biology
+bio_topic,biological
+bio_topic,cell
+bio_topic,cells
+bio_topic,telemedicine
+bio_topic,telemedic
+bio_topic,personalized medicine
+bio_topic,personalized medicines
+bio_topic,medical device
+bio_topic,precision medicine
+bio_topic,precision medicines
+bio_topic,organ
+bio_topic,regenerative medicine
+bio_topic,regenerative medicines
+bio_topic,prosthetic
+bio_topic,prosthetics
+bio_topic,clinic
+bio_topic,fda
+bio_topic,health
+bio_negative,risk
+bio_negative,risky
+bio_negative,decline
+bio_negative,lower
+bio_negative,expense
+bio_negative,expensive
+bio_negative,poor
+bio_negative,slow
+bio_negative,controversy
+bio_negative,controversial
+bio_negative,unethical
+bio_negative,poor
+bio_negative,faulty
+bio_negative,negative
+bio_positive,new
+bio_positive,safe
+bio_positive,innovate
+bio_positive,innovative
+bio_positive,innovation
+bio_positive,transform
+bio_positive,transformative
+bio_positive,life
+bio_positive,lives
+bio_positive,save
+bio_positive,saves
+bio_positive,benefit
+bio_positive,benefits
+bio_positive,grow
+bio_positive,grows
+
+
