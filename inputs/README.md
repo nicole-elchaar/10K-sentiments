@@ -27,6 +27,6 @@ This dataset lists tickers, CIKs, sectors, and other information about S&P500 co
 
 ## *topic_list.csv*
 
-This file includes a list of terms included in the sentiment analysis of *build_sample.ipynb*.  Neutral topics are listed under type as <topic abbreviation>_topic, positive words are listed under type as <topic abbreviation>_positive, and negative words are listed under type as <topic abbreviation>_negative.  All terms are then listed to the right under term.
+This file includes a list of terms included in the sentiment analysis of *build_sample.ipynb*.  Neutral topics are listed under type as \<topic abbreviation\>_topic, positive words are listed under type as \<topic abbreviation\>_positive, and negative words are listed under type as \<topic abbreviation\>_negative.  All terms are then listed to the right under term.
 
-To add a list related to Customer Satisfaction, for example, add CSV data to the bottom of the file with general topics as "cs_topic,<term>", positive related words as "cs_positive,<term>", and negative related words as "cs_negative,<term>".  
+To add a list related to Customer Satisfaction, for example, add CSV data to the bottom of the file with general topics as "cs_topic,\<term\>", positive related words as "cs_positive,\<term\>", and negative related words as "cs_negative,\<term\>".  
