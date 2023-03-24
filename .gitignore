@@ -2,11 +2,12 @@
 10k_files/
 literature/
 *temp*
+ticker_sentiments*
+ticker_returns*
 
 profanswer.ipynb
 /creating/*
 .DS_store
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
