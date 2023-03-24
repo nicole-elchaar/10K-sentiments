@@ -4,9 +4,9 @@ Nicole ElChaar, FIN337, Spring 2023
 
 ## Summary
 
-In this repository, we download and analyze the sentiments of 10-K documents and returns immediately following the release for all firms of the S&P500.  We compare sentiment score themes against returns and include accounting data as of 2021 for further regression and analysis.
+In this analysis, we explore whether 10-K filings contain value-relevant information in the sentiment of the text.  We examine the relationships between sentiments found in 10-K filings and returns following the 10-K's release using two valence-based dictionaries and three topic-based schemes (with financial stability, corporate governance, and e-commerce themes).  We find higher absolute correlations for positive sentiments in general, with the largest magnitudes for positive e-commerce topics, positive LM sentiment, negative LM sentiment, and positive financial stability topics.
 
-The final is *output/analysis_sample.csv* which includes the following:
+The final output is *output/analysis_sample.csv* which includes the following:
 
 1. 5 positive sentiment scores
 1. 5 negative sentiment scores
@@ -14,7 +14,7 @@ The final is *output/analysis_sample.csv* which includes the following:
 1. a return variable from two days after the 10-K's release to ten days following 
 1. the 10-K's word count
 1. the 10-K's unique word count
-1. accounting variables from the CCM
+1. accounting variables for further analysis
 
 ## Requirements
 
