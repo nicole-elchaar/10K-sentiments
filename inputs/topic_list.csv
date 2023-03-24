@@ -1,4 +1,148 @@
 type,term
+esg_topic,esg
+esg_topic,sustainable
+esg_topic,sustained
+esg_topic,sustainability
+esg_topic,impact investing
+esg_topic,impact invest
+esg_topic,clean energy
+esg_topic,clean investing
+esg_topic,clean invest
+esg_topic,diversity
+esg_topic,equity
+esg_topic,inclusion
+esg_topic,microfinance
+esg_topic,ethics
+esg_topic,ethically
+esg_topic,cdfi
+esg_negative,limit
+esg_negative,limited
+esg_negative,underdevelop
+esg_negative,underdeveloped
+esg_negative,bureaucratic
+esg_negative,slow
+esg_negative,slowly
+esg_negative,insufficient
+esg_negative,behind
+esg_negative,poor
+esg_negative,faulty
+esg_negative,behind
+esg_negative,risk
+esg_negative,risky
+esg_negative,decline
+esg_negative,lower
+esg_positive,ethical
+esg_positive,ethics
+esg_positive,ethically
+esg_positive,innovate
+esg_positive,innovation
+esg_positive,transform
+esg_positive,transformation
+esg_positive,innovate
+esg_positive,innovative
+esg_positive,profit
+esg_positive,profitable
+esg_positive,efficient
+esg_positive,effective
+esg_positive,positive
+esg_positive,good
+ecom_topic,online
+ecom_topic,digital wallet
+ecom_topic,digital pay
+ecom_topic,digital payment
+ecom_topic,logistics
+ecom_topic,delivery
+ecom_topic,mobile commerce
+ecom_topic,social commerce
+ecom_topic,social media
+ecom_topic,drop ship
+ecom_topic,dropship
+ecom_topic,dropshipping
+ecom_negative,risk
+ecom_negative,risky
+ecom_negative,unsustainable
+ecom_negative,unsustained
+ecom_negative,monopoly
+ecom_negative,monopolistic
+ecom_negative,unethical
+ecom_negative,poor
+ecom_negative,faulty
+ecom_negative,negative
+ecom_positive,convenient
+ecom_positive,convenience
+ecom_positive,access
+ecom_positive,accessible
+ecom_positive,accessibility
+ecom_positive,available
+ecom_positive,availability
+ecom_positive,innovate
+ecom_positive,innovative
+ecom_positive,profit
+ecom_positive,profitable
+ecom_positive,efficient
+ecom_positive,effective
+ecom_positive,positive
+bio_topic,gene
+bio_topic,genes
+bio_topic,biopharm
+bio_topic,biopharmaceutical
+bio_topic,biopharmaceuticals
+bio_topic,pharmacy
+bio_topic,pharmacies
+bio_topic,medical
+bio_topic,medicine
+bio_topic,medicines
+bio_topic,medicinal
+bio_topic,vaccine
+bio_topic,vaccines
+bio_topic,biology
+bio_topic,biological
+bio_topic,cell
+bio_topic,cells
+bio_topic,telemedicine
+bio_topic,telemedic
+bio_topic,personalized medicine
+bio_topic,personalized medicines
+bio_topic,medical device
+bio_topic,precision medicine
+bio_topic,precision medicines
+bio_topic,organ
+bio_topic,regenerative medicine
+bio_topic,regenerative medicines
+bio_topic,prosthetic
+bio_topic,prosthetics
+bio_topic,clinic
+bio_topic,fda
+bio_topic,health
+bio_negative,risk
+bio_negative,risky
+bio_negative,decline
+bio_negative,lower
+bio_negative,expense
+bio_negative,expensive
+bio_negative,poor
+bio_negative,slow
+bio_negative,controversy
+bio_negative,controversial
+bio_negative,unethical
+bio_negative,poor
+bio_negative,faulty
+bio_negative,negative
+bio_positive,new
+bio_positive,safe
+bio_positive,innovate
+bio_positive,innovative
+bio_positive,innovation
+bio_positive,transform
+bio_positive,transformative
+bio_positive,life
+bio_positive,lives
+bio_positive,save
+bio_positive,saves
+bio_positive,benefit
+bio_positive,benefits
+bio_positive,grow
+bio_positive,grows
 esg_negative,ash
 esg_negative,coal
 esg_negative,deep water
@@ -911,3 +1055,409 @@ intl_topic,warehousing
 intl_topic,yemen
 intl_topic,zambia
 intl_topic,zimbabwe
+fp_topic,financial results
+fp_topic,earnings
+fp_topic,revenue
+fp_topic,profits
+fp_topic,margins
+fp_topic,expenses
+fp_positive,strong
+fp_positive,robust
+fp_positive,healthy
+fp_positive,impressive
+fp_positive,consistent
+fp_negative,declining
+fp_negative,weak
+fp_negative,poor
+fp_negative,disappointing
+fp_negative,challenging
+cs_topic,growth
+cs_topic,market position
+cs_topic,initiatives
+cs_topic,expansion
+cs_topic,innovation
+cs_positive,successful
+cs_positive,effective
+cs_positive,efficient
+cs_positive,strategic
+cs_positive,forward-looking
+cs_negative,slow
+cs_negative,challenging
+cs_negative,difficult
+cs_negative,problematic
+cs_negative,uncertain
+ia_topic,market trends
+ia_topic,industry growth
+ia_topic,demand
+ia_topic,economic outlook
+ia_topic,market opportunities
+ia_positive,favorable
+ia_positive,positive
+ia_positive,promising
+ia_positive,robust
+ia_positive,lucrative
+ia_negative,unfavorable
+ia_negative,negative
+ia_negative,challenging
+ia_negative,uncertain
+ia_negative,difficult
+re_topic,regulations
+re_topic,compliance
+re_topic,regulatory developments
+re_topic,approvals
+re_topic,adaptation
+re_positive,favorable
+re_positive,positive
+re_positive,successful
+re_positive,compliant
+re_positive,advantageous
+re_negative,unfavorable
+re_negative,negative
+re_negative,challenging
+re_negative,non-compliant
+re_negative,hurdles
+cg_topic,leadership
+cg_topic,governance
+cg_topic,risk management
+cg_topic,ethics
+cg_topic,diversity and inclusion
+cg_positive,strong
+cg_positive,transparent
+cg_positive,effective
+cg_positive,ethical
+cg_positive,diverse
+cg_negative,need for improvement
+cg_negative,lack of transparency
+cg_negative,risk management challenges
+cg_negative,ethical concerns
+cg_negative,lack of diversity
+csat_topic,customer satisfaction
+csat_topic,brand reputation
+csat_topic,feedback
+csat_topic,retention
+csat_topic,complaints
+csat_positive,high
+csat_positive,strong
+csat_positive,positive
+csat_positive,loyal
+csat_positive,satisfied
+csat_negative,need for improvement
+csat_negative,challenges
+csat_negative,concerns
+csat_negative,complaints
+csat_negative,low retention
+esat_topic,employee satisfaction
+esat_topic,workplace culture
+esat_topic,engagement
+esat_topic,retention
+esat_topic,development
+esat_positive,high
+esat_positive,positive
+esat_positive,engaged
+esat_positive,satisfied
+esat_positive,developed
+esat_negative,need for improvement
+esat_negative,challenges
+esat_negative,low retention
+esat_negative,lack of engagement
+esat_negative,development concerns
+tech_topic,technology
+tech_topic,capabilities
+tech_topic,competitive advantage
+tech_topic,operations
+tech_topic,efficiency
+tech_positive,innovative
+tech_positive,advanced
+tech_positive,effective
+tech_positive,competitive
+tech_positive,efficient
+tech_negative,outdated
+tech_negative,limited
+tech_negative,need for improvement
+tech_negative,competitive disadvantages
+tech_negative,inefficiencies
+sc_topic,supplier relationships
+sc_topic,supply chain
+sc_topic,logistics
+sc_topic,sourcing
+sc_topic,operations
+sc_positive,strong
+sc_positive,efficient
+sc_positive,effective
+sc_positive,reliable
+sc_positive,cost-effective
+cg_negative,concern
+cg_negative,concerns
+cg_negative,lack
+cg_negative,manage
+cg_negative,management
+cg_negative,need
+cg_negative,risk
+cg_negative,risks
+cg_negative,risky
+cg_positive,booming
+cg_positive,diverse
+cg_positive,effective
+cg_positive,ethic
+cg_positive,ethical
+cg_positive,ethics
+cg_positive,impact
+cg_positive,profit
+cg_positive,profitable
+cg_positive,strong
+cg_positive,success
+cg_positive,successful
+cg_positive,transparent
+cg_positive,win
+cg_topic,board composition
+cg_topic,board independence
+cg_topic,diversity
+cg_topic,ethics
+cg_topic,govern
+cg_topic,governance
+cg_topic,governs
+cg_topic,inclusion
+cg_topic,leader
+cg_topic,leaders
+cg_topic,leadership
+cg_topic,manage
+cg_topic,management
+cg_topic,manages
+cg_topic,risk management
+cg_topic,transparency
+cs_negative,behind
+cs_negative,challenge
+cs_negative,challenges
+cs_negative,challenging
+cs_negative,concern
+cs_negative,concerns
+cs_negative,difficult
+cs_negative,improve
+cs_negative,lag
+cs_negative,lagging
+cs_negative,lags
+cs_negative,lose
+cs_negative,losing
+cs_negative,problem
+cs_negative,problematic
+cs_negative,slow
+cs_negative,uncertain
+cs_negative,weak
+cs_positive,brand
+cs_positive,dominant
+cs_positive,effective
+cs_positive,efficient
+cs_positive,forward-looking
+cs_positive,growing
+cs_positive,high
+cs_positive,high
+cs_positive,increasing
+cs_positive,leader
+cs_positive,leading
+cs_positive,loyal
+cs_positive,new
+cs_positive,positive
+cs_positive,profit
+cs_positive,profitable
+cs_positive,prosperous
+cs_positive,reputation
+cs_positive,satisfaction
+cs_positive,strategic
+cs_positive,success
+cs_positive,successful
+cs_topic,acquisition
+cs_topic,acquisitions
+cs_topic,brand
+cs_topic,branding
+cs_topic,competitor
+cs_topic,competitors
+cs_topic,customer
+cs_topic,disruption
+cs_topic,divestiture
+cs_topic,divestitures
+cs_topic,feedback
+cs_topic,fit
+cs_topic,growth
+cs_topic,growth rate
+cs_topic,innovation
+cs_topic,market entry
+cs_topic,market position
+cs_topic,market positions
+cs_topic,market share
+cs_topic,market shares
+cs_topic,marketable
+cs_topic,merger
+cs_topic,mergers
+cs_topic,partnership
+cs_topic,partnerships
+cs_topic,product launch
+cs_topic,product launches
+cs_topic,retention
+fp_negative,behind
+fp_negative,below
+fp_negative,challenge
+fp_negative,challenges
+fp_negative,challenging
+fp_negative,change
+fp_negative,changing
+fp_negative,decline
+fp_negative,declining
+fp_negative,disappoint
+fp_negative,disappointing
+fp_negative,low
+fp_negative,lower
+fp_negative,poor
+fp_negative,sluggish
+fp_negative,underperforming
+fp_negative,unexpected
+fp_negative,unprofitable
+fp_negative,unsustainable
+fp_negative,volatile
+fp_negative,weak
+fp_negative,weak
+fp_positive,consistent
+fp_positive,efficiency
+fp_positive,efficient
+fp_positive,growing
+fp_positive,growing
+fp_positive,growth
+fp_positive,healthy
+fp_positive,impress
+fp_positive,impressive
+fp_positive,increase
+fp_positive,increasing
+fp_positive,profit
+fp_positive,profitable
+fp_positive,prosperous
+fp_positive,robust
+fp_positive,robust
+fp_positive,stable
+fp_positive,strong
+fp_positive,strong
+fp_topic,adjusted
+fp_topic,annual
+fp_topic,asset
+fp_topic,assets
+fp_topic,capital
+fp_topic,credit
+fp_topic,credits
+fp_topic,debit
+fp_topic,debits
+fp_topic,debt
+fp_topic,debt
+fp_topic,dividend
+fp_topic,dividends
+fp_topic,earnings
+fp_topic,expectation
+fp_topic,expectations
+fp_topic,expense
+fp_topic,expenses
+fp_topic,financial results
+fp_topic,financial results
+fp_topic,forecast
+fp_topic,forecasts
+fp_topic,invest
+fp_topic,investment
+fp_topic,investments
+fp_topic,liabilities
+fp_topic,liability
+fp_topic,liquid
+fp_topic,liquidity
+fp_topic,loss
+fp_topic,losses
+fp_topic,losses
+fp_topic,margin
+fp_topic,margins
+fp_topic,market share
+fp_topic,performance
+fp_topic,productivity
+fp_topic,profit
+fp_topic,profit
+fp_topic,profits
+fp_topic,profits
+fp_topic,quarter
+fp_topic,quarterly
+fp_topic,return
+fp_topic,revenue
+fp_topic,revenues
+fp_topic,shareholder
+fp_topic,shareholders
+fp_topic,stock price
+fp_topic,stockholder
+fp_topic,stockholders
+fp_topic,valuation
+fp_topic,value
+fp_topic,year end
+fp_topic,yearend
+ia_negative,challenge
+ia_negative,challenging
+ia_negative,decline
+ia_negative,declining
+ia_negative,difficult
+ia_negative,fragment
+ia_negative,fragmented
+ia_negative,hard
+ia_negative,negative
+ia_negative,oversaturated
+ia_negative,saturated
+ia_negative,uncertain
+ia_negative,unexpected
+ia_negative,unfavorable
+ia_positive,booming
+ia_positive,favorable
+ia_positive,growing
+ia_positive,growth
+ia_positive,increase
+ia_positive,increasing
+ia_positive,lucrative
+ia_positive,positive
+ia_positive,promising
+ia_positive,robust
+ia_topic,consumer analysis
+ia_topic,consumer behavior
+ia_topic,demand
+ia_topic,economic outlook
+ia_topic,industry growth
+ia_topic,market concentration
+ia_topic,market entry
+ia_topic,market expectations
+ia_topic,market opportunities
+ia_topic,market opportunity
+ia_topic,market outlook
+ia_topic,market penetration
+ia_topic,market saturation
+ia_topic,market segmentation
+ia_topic,market trend
+ia_topic,market trends
+ia_topic,supply
+re_negative,challenge
+re_negative,challenges
+re_negative,challenging
+re_negative,hurdle
+re_negative,hurdles
+re_negative,negative
+re_negative,non compliant
+re_negative,noncompliant
+re_negative,unfavorable
+re_positive,adapt
+re_positive,advantage
+re_positive,advantageous
+re_positive,agreeable
+re_positive,agreement
+re_positive,compliant
+re_positive,efficient
+re_positive,favorable
+re_positive,positive
+re_positive,success
+re_positive,successful
+re_topic,adaptation
+re_topic,adapts
+re_topic,approvals
+re_topic,approve
+re_topic,approves
+re_topic,compliance
+re_topic,compliant
+re_topic,regulation
+re_topic,regulations
+re_topic,regulatory development
+re_topic,regulatory developments
