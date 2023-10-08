@@ -1,4 +1,4 @@
-# Assignment 5: 10-K Sentiment Analysis for S&P500 Stocks in 2022
+# 10-K Insights: Sentiment Analysis and Stock Returns for S&P500 Stocks in 2022
 
 Nicole ElChaar, FIN337, Spring 2023
 
@@ -37,13 +37,11 @@ Python, Jupyter Notebook, and the following Python packages are required:
 - warnings
 - sec_edgar_downloader
 
-## Running the Code
+## Usage
 
-**Warning: the files contained in this code will download up to 10GB of data.  Please keep this in mind before continuing**
+**⚠️⚠️⚠️WARNING⚠️⚠️⚠️ The files contained in this code will download up to 10GB of data.  Please keep this in mind before continuing**
 
-To start, run all lines in the *download_text_files.ipynb* notebook to gather necessary filings and returns.
-
-Then, build the sample with *build_sample.ipynb*.
+First, run all lines in the *download_text_files.ipynb* notebook to gather necessary filings and returns.  Then, build the sample with *build_sample.ipynb*.
 
 An existing analysis is shown in *report.ipynb*.
 
